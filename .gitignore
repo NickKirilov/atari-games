@@ -13,5 +13,9 @@ mlflow.db
 
 /logs
 
-dqn_cartpole.zip
+hyperparams_determination.csv
+
+
 exercise.ipynb
+
+__pycache__/
